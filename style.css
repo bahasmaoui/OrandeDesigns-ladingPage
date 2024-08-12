@@ -76,6 +76,7 @@ li{
     font-size: 20px;
     
 }
+
 .divider {
     width: 100%;
     height: 100px;
@@ -203,4 +204,8 @@ footer{
     display: flex;
     justify-content: space-between;
     padding: 0 50px;
+}
+ /*ANIMATIONS */ 
+ button:hover{
+    transform: scale(1.07);
 }
